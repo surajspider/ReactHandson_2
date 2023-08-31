@@ -31,7 +31,7 @@ label {
 }
 
 .parent {
-    border: 2px double black;
+    border: 2px double red;
     width: 70%;
     margin: auto;
     display: flex;
